@@ -26,4 +26,8 @@
  **Creating the Gradio Interface Application**
   I created a Gradio Interface application that will supply a textbox for  inputs and a textbox for  outputs. The textboxes  have labels that describe what each textbox contains. I tested application functionality by using the given text messages. I then launched the application and provided the URL to share the application. 
 
+
+**Conclusion**
+In my opinion the model needs some adjustments, as I would have classified the first two test messages as spam. Since I was unable to manipulate the initial data set or the test size, I instead elected to add some parameters in the TfidfVectorizer to potentially refine the feature selection. However, this did not make any difference in the outcomes.
+
   
