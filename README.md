@@ -29,5 +29,4 @@
 
 **Conclusion**
 In my opinion the model needs some adjustments, as I would have classified the first two test messages as spam. Since I was unable to manipulate the initial data set or the test size, I instead elected to add some parameters in the TfidfVectorizer to potentially refine the feature selection. However, this did not make any difference in the outcomes.
-
-  
+ 
